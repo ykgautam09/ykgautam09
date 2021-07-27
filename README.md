@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 [![Yateesh's github stats](https://github-readme-stats.vercel.app/api?username=ykgautam09&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykgautam09&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
